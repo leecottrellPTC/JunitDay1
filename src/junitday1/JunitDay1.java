@@ -8,6 +8,7 @@ package junitday1;
 /**
  *
  * @author cottrell.lee
+ * change added here
  */
 public class JunitDay1 {
 
